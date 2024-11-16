@@ -4,3 +4,4 @@
 ![Screenshot (243)](https://github.com/user-attachments/assets/cdc53e78-d9f5-4547-9da8-232de2abceab)
 ![Screenshot (244)](https://github.com/user-attachments/assets/9d0f287e-c064-403d-871d-1379d898e686)
 ![Screenshot (245)](https://github.com/user-attachments/assets/e4d60b77-0291-4fac-88e1-5dc5e6de2915)
+#### Model Accuracy: 77.27%
